@@ -1,0 +1,3 @@
+﻿smølf,smurf
+skole,school
+hus,house
